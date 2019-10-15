@@ -15,9 +15,3 @@ class Dog
     end
 end
 
-hutch=Dog.new 
-hutch.name = "Hutch"
-puts hutch.name
-hutch=breed.new
-hutch.breed="Husky"
-puts hutch.breed
